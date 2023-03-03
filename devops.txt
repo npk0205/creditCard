@@ -1,2 +1,3 @@
 db.uname=nkalanse
+db.pwd=nkalanse@123
 
