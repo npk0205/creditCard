@@ -1,4 +1,4 @@
 db.uname=nkalanse
 db.pwd=nkalanse@123
-db.url=jdbcurl
+
 
